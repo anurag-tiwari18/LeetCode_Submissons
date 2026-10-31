@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3665-twisted-mirror-path-count](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0289-game-of-life) |
+| [3665-twisted-mirror-path-count](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0044-wildcard-matching) |
 | [0174-dungeon-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0174-dungeon-game) |
 | [0416-partition-equal-subset-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0416-partition-equal-subset-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
 | ------- |
