@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3665-twisted-mirror-path-count](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3516-find-closest-person) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
 | ------- |
