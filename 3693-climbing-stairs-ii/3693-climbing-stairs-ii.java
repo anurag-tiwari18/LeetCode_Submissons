@@ -1,8 +1,35 @@
 class Solution {
     public int climbStairs(int n, int[] costs) {
-        int[] dp = new int[costs.length];
-        Arrays.fill(dp,-1);
-        return Solve(-1,costs,dp);
+        int[] dp = new int[costs.length+1];
+        
+        //Tabulation
+
+        dp[costs.length] = 0;
+
+        for(int i = costs.length-1 ; i>=0 ;i--){
+        int x = Integer.MAX_VALUE;
+        if(i+1 <= costs.length)  x = dp[i+1] + 1 + costs[i];
+
+        int y = Integer.MAX_VALUE;
+        if(i+2 <= costs.length)  y = dp[i+2] + 4 + costs[i+1];
+
+        int z = Integer.MAX_VALUE;
+        if(i+3 <= costs.length)  z = dp[i+3] + 9 + costs[i+2];
+
+        dp[i] = Math.min(x,Math.min(y,z));
+        
+        }
+
+        for(int el : dp){
+            System.out.println(el);
+        }
+
+        return dp[0];
+
+
+        //Memoization
+        // Arrays.fill(dp,-1);
+        // return Solve(-1,costs,dp);
     }
     static int Solve(int i , int[] costs ,int[] dp){
 
