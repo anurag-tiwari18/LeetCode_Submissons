@@ -20,9 +20,9 @@ class Solution {
         
         }
 
-        for(int el : dp){
-            System.out.println(el);
-        }
+        // for(int el : dp){
+        //     System.out.println(el);
+        // }
 
         return dp[0];
 
