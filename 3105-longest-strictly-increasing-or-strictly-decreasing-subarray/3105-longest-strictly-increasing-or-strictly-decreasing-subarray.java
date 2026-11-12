@@ -13,12 +13,11 @@ class Solution {
         while(j < nums.length){
             if(nums[j] > nums[i]) {
                 len++;
-                ans = Math.max(ans , len);
             }
             else{
-                ans = Math.max(ans , len);
                 len = 1;
             }
+                ans = Math.max(ans , len);
                 i++;
                 j++;
         }
@@ -35,12 +34,11 @@ class Solution {
         while(j < nums.length){
             if(nums[i] > nums[j]) {
                 len++;
-                ans = Math.max(ans , len);
             }
             else{
-                ans = Math.max(ans , len);
                 len = 1;
             }
+                ans = Math.max(ans , len);
                 i++;
                 j++;
         }
