@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
