@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0055-jump-game) |
 | [0174-dungeon-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0289-game-of-life) |
 | [0416-partition-equal-subset-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0416-partition-equal-subset-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0055-jump-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0055-jump-game) |
 | [0174-dungeon-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0174-dungeon-game) |
 | [0416-partition-equal-subset-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0416-partition-equal-subset-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3665-twisted-mirror-path-count) |
