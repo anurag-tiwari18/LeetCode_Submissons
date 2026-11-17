@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0055-jump-game) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0507-perfect-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3516-find-closest-person](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3516-find-closest-person) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3723-maximize-sum-of-squares-of-digits) |
