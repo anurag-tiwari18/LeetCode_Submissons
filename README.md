@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0289-game-of-life) |
 | [0416-partition-equal-subset-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0697-degree-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0697-degree-of-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1720-decode-xored-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1720-decode-xored-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0387-first-unique-character-in-a-string) |
+| [0697-degree-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0697-degree-of-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
