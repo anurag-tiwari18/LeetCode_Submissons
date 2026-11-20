@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3100-water-bottles-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3100-water-bottles-ii) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3516-find-closest-person](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3516-find-closest-person) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3100-water-bottles-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3100-water-bottles-ii) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0044-wildcard-matching) |
 | [0390-elimination-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0390-elimination-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1720-decode-xored-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
