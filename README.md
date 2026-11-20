@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0507-perfect-number) |
+| [1518-water-bottles](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3100-water-bottles-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3100-water-bottles-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0289-game-of-life) |
+| [1518-water-bottles](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3100-water-bottles-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3100-water-bottles-ii) |
 ## Binary Search
