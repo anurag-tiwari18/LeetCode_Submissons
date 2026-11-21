@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3379-transformed-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3379-transformed-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3665-twisted-mirror-path-count](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3693-climbing-stairs-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3100-water-bottles-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3100-water-bottles-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3379-transformed-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
 | ------- |
