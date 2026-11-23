@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0697-degree-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0697-degree-of-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1352-product-of-the-last-k-numbers) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1720-decode-xored-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1720-decode-xored-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0390-elimination-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0507-perfect-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1352-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -152,4 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
