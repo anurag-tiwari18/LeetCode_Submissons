@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3379-transformed-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3379-transformed-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0055-jump-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
