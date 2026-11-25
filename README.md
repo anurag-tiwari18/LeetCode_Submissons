@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3379-transformed-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3379-transformed-array) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3665-twisted-mirror-path-count](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3693-climbing-stairs-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0044-wildcard-matching) |
 | [0390-elimination-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0390-elimination-game) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Combinatorics
 |  |
 | ------- |
