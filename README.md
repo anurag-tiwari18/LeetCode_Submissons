@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0387-first-unique-character-in-a-string) |
 | [0697-degree-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0697-degree-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0289-game-of-life) |
 | [1518-water-bottles](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1518-water-bottles) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3100-water-bottles-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3100-water-bottles-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3379-transformed-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3379-transformed-array) |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/1352-product-of-the-last-k-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
