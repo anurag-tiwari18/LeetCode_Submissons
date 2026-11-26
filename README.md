@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0387-first-unique-character-in-a-string) |
 | [0697-degree-of-an-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0697-degree-of-an-array) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0387-first-unique-character-in-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0044-wildcard-matching) |
 | [0387-first-unique-character-in-a-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0387-first-unique-character-in-a-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Dynamic Programming
 |  |
