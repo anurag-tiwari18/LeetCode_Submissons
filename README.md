@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2643-row-with-maximum-ones](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0174-dungeon-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/0289-game-of-life) |
+| [2643-row-with-maximum-ones](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2643-row-with-maximum-ones) |
 | [3665-twisted-mirror-path-count](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
