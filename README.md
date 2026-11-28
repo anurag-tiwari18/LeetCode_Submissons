@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3100-water-bottles-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3100-water-bottles-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3516-find-closest-person) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3100-water-bottles-ii](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3100-water-bottles-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/anurag-tiwari18/LeetCode_Submissons/tree/master/3379-transformed-array) |
 ## Binary Search
 |  |
